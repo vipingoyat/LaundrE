@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989627272652",
+    "firebase_url": "https://laundare-default-rtdb.firebaseio.com",
+    "project_id": "laundare",
+    "storage_bucket": "laundare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989627272652:android:8e0a492f89b4059f842169",
+        "android_client_info": {
+          "package_name": "com.azhar.laundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989627272652-cjvujogl2of5g4k5j9liucg6ccnds2nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azhar.laundry",
+            "certificate_hash": "03fecc00fd3d1be47d8515d1eae6d4fb8318793d"
+          }
+        },
+        {
+          "client_id": "989627272652-946jid7ndr5cbjln96vvpve094fna64s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xpWG2nurSPHdQI4IrO9ErAUKNCFouRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989627272652-946jid7ndr5cbjln96vvpve094fna64s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
